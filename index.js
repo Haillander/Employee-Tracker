@@ -1,6 +1,6 @@
 const inquirer = require("inquirer");
 const util = require("util");
-const table = require("console.table");
+// const table = require("console.table");
 const db = require("./db/connection");
 
 // Makes queries asynchronous //
